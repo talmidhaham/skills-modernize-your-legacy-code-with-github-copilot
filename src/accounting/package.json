@@ -1,0 +1,15 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Converted COBOL account management app (View/Credit/Debit)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --runInBand"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
